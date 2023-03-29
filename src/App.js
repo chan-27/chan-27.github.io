@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Together 1
+          Sai Chandan Kadarla
         </a>
       </header>
     </div>
